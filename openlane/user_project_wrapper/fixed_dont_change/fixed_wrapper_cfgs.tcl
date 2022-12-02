@@ -23,7 +23,7 @@ set ::env(FP_DEF_TEMPLATE) $::env(DESIGN_DIR)/fixed_dont_change/user_project_wra
 
 # Area Configurations. DON'T TOUCH.
 set ::env(FP_SIZING) absolute
-set ::env(DIE_AREA) "0 0 3000 3000"
+set ::env(DIE_AREA) "0 0 4000 4000"
 set ::env(CORE_AREA) "21.5 21.5 2978.5 2978.5"
 
 set ::env(RUN_CVC) 0
